@@ -1,20 +1,21 @@
 # Front-End Resources
 
-1.  [CSS Frameworks](#css-frameworks)
-2.  [Illustrations](#illustrations)
-3.  [Free Images](#free-images)
-4.  [Icons](#icons)
-5.  [Font](#fonts)
-6.  [Code Validator](#code-validator)
-7.  [Code Formatter](#code-format)
-8.  [Responsive Checker](#responsive-checker)
-9.  [Website Speed](#website-speed)
-10. [Favicon Generator](#favicon-generator)
-11. [Deployement](#deployement)
-12. [Free API](#free-api)
-13. [Design Tools](#design-tools)
-14. [Play and Learn](#play-and-learn)
-15. [Job Sites](#job-site)
+- [CSS Frameworks](#css-frameworks)
+- [Illustrations](#illustrations)
+- [Free Images](#free-images)
+- [Icons](#icons)
+- [Font](#fonts)
+- [Code Validator](#code-validator)
+- [Code Formatter](#code-format)
+- [Responsive Checker](#responsive-checker)
+- [Website Speed](#website-speed)
+- [Favicon Generator](#favicon-generator)
+- [Deployement](#deployement)
+- [Free API](#free-api)
+- [Design Tools](#design-tools)
+- [Play and Learn](#play-and-learn)
+- [Job Sites](#job-site)
+- [Color Plates](#color-plates)
 
 # Get Started
 
@@ -132,3 +133,8 @@
 8. [Vizajobs](https://vizajobs.com/)
 9. [The Ladders](https://www.theladders.com/)
 10. [Jooble](https://jooble.org/)
+
+### Color Plates
+
+1. [deployColors](https://colors.dopely.top/)
+2. [Flat UI Colors](https://flatuicolors.com/)
