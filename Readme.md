@@ -16,6 +16,7 @@
 - [Play and Learn](#play-and-learn)
 - [Job Sites](#job-site)
 - [Color Plates](#color-plates)
+- [JavaScript Libraries](#javascript-libraries)
 
 # Get Started
 
@@ -138,3 +139,8 @@
 
 1. [deployColors](https://colors.dopely.top/)
 2. [Flat UI Colors](https://flatuicolors.com/)
+
+### JavaScript Libraries
+
+1. [MixItUp](https://www.kunkalabs.com/mixitup/)
+2. [Swiper JS](https://swiperjs.com/)
