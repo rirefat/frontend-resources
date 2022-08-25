@@ -95,6 +95,7 @@
 1. [GitHub](https://pages.github.com)
 2. [Netlify](https://www.netlify.com/)
 3. [Vercel](https://vercel.com/)
+3. [Render](https://render.com/)
 4. [Surge](https://surge.sh/)
 5. [Heroku(For Server](https://www.heroku.com)
 
