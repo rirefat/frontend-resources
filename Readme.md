@@ -10,13 +10,14 @@
 - [Responsive Checker](#responsive-checker)
 - [Website Speed](#website-speed)
 - [Favicon Generator](#favicon-generator)
-- [Deployement](#deployement)
+- [Deployment](#deployement)
 - [Free API](#free-api)
 - [Design Tools](#design-tools)
 - [Play and Learn](#play-and-learn)
 - [Job Sites](#job-site)
 - [Color Plates](#color-plates)
 - [JavaScript Libraries](#javascript-libraries)
+- [Interesting API services](#interesting-api-services)
 
 # Get Started
 
@@ -147,3 +148,20 @@
 
 1. [MixItUp](https://www.kunkalabs.com/mixitup/)
 2. [Swiper JS](https://swiperjs.com/)
+
+#### Interesting API services
+
+01. [Pokemon API](https://pokeapi.co/)
+02. [GIPHY](https://lnkd.in/gK4-5jKh)
+03. [Open Weather](https://lnkd.in/gNgkgQkG)
+04. [{JSON} Placeholder](https://lnkd.in/gxP6W4da)
+05. [Star Wars API](https://swapi.dev/)
+06. [NASA](https://api.nasa.gov/)
+07. [Unsplash](https://lnkd.in/ghMRgPkf)
+08. [Breaking Bad Quotes](https://lnkd.in/g-qTEshS)
+09. [Random Data](https://lnkd.in/gj8PhaQH)
+10. [Countries API](https://restcountries.com/)
+11. [Rick and Morty API](https://lnkd.in/gTXjEaAc)
+12. [Random Quotes API](https://lnkd.in/gr9QmJ6b)
+
+
